@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "../.."
+		},
+		{
+			"name": "covid_detection_by_xray_CNN_model",
+			"path": ".."
+		}
+	],
+	"settings": {}
+}
